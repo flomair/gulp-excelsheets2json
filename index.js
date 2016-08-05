@@ -17,10 +17,10 @@ var toJson = function (workbook) {
             var re = {"id":sheetName};
             for (var i = 0; i < roa.length; i++) {
                 try {
-                    re[roa[i]["oname"]] = JSON.parse(roa[i]["ovalue"]);
+                    re[roa[i].oname] = JSON.parse(roa[i].ovalue);
                 }
                 catch(err) {
-                    re[roa[i]["oname"]] = roa[i]["ovalue"]
+                    re[roa[i].oname] = roa[i].ovalue;
                 }
             }
             result[sheetName] = re;

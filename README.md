@@ -26,7 +26,7 @@ gulp.task('copy', function() {
 
 ## API
 
-### excel2json([options])
+### excelsheets2json([options])
 
 #### options.trace
 Type: `Boolean`
