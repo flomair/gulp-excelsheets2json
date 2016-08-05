@@ -57,6 +57,5 @@ var toJson = function (workbook) {
                 }
                 file.path = file.path.replace(".xlsx", ".json");
                 this.push(file);
-                // cb();
             });
         };
