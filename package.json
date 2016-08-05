@@ -38,7 +38,7 @@
     "#DEV:/",
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/gulp-excelsheets2json/-/gulp-excelsheets2json-1.0.5.tgz",
+  "_resolved": "https://registry.npmjs.org/gulp-excelsheets2json/-/d-1.0.5.tgz",
   "_shasum": "801f7e88493b9e03b57ffc7c7eafec0db55a72ba",
   "_shrinkwrap": null,
   "_spec": "gulp-excelsheets2json",
@@ -85,7 +85,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flomair/gulp-excelsheets2json.git.git"
+    "url": "https://github.com/flomair/gulp-excelsheets2json.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
