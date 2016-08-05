@@ -1,6 +1,6 @@
 {
   "name": "gulp-excelsheets2json",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": false,
   "license": "MIT",
   "readme": "README.md",
@@ -14,7 +14,13 @@
     "url": "https://github.com/flomair/gulp-excelsheets2json.git"
   },
   "keywords": [
-    "xlsx", "json", "spreadsheet", "workbook", "sheets", "object", "array"
+    "xlsx",
+    "json",
+    "spreadsheet",
+    "workbook",
+    "sheets",
+    "object",
+    "array"
   ],
   "dependencies": {
     "gulp-util": "^3.0.7",
