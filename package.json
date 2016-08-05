@@ -48,7 +48,7 @@
     "email": "f.mair@gmx.net"
   },
   "bugs": {
-    "url": "https://github.com/chrisbing/gulp-excelsheets2json/issues"
+    "url": "https://github.com/flomair/gulp-excelsheets2json.git/issues"
   },
   "dependencies": {
     "gulp-util": "^3.0.7",
@@ -66,7 +66,7 @@
     "index.js"
   ],
   "gitHead": "d5079b6ec9a4fa4e3669cacbc91ff7d0e58d37b5",
-  "homepage": "https://github.com/chrisbing/gulp-excelsheets2json#readme",
+  "homepage": "https://github.com/flomair/gulp-excelsheets2json.git#readme",
   "keywords": [
     "gulp",
     "gulpplugin",
@@ -85,7 +85,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrisbing/gulp-excelsheets2json.git"
+    "url": "git+https://github.com/flomair/gulp-excelsheets2json.git.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
