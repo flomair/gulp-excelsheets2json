@@ -12,7 +12,7 @@ First, install `gulp-excelsheets2json` as a development dependency:
 Then, add it to your `gulpfile.js`:
 
 ```javascript
-var excelsheets2json = require('gulp-excelsheets2json');
+var excel2json = require('gulp-excelsheets2json');
 
 gulp.task('copy', function() {
     gulp.src('config/**.xlsx')
